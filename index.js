@@ -13,7 +13,7 @@ function send(token) {
 }
 
 // 1920x1080分辨率自动做饭
-function cookie(opts) {
+function cook(opts) {
   // 启动应用
   app.launch("com.tapas.heroesrestaurant");
   // 应用冷启动时可能较慢，等待10s
